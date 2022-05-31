@@ -1,0 +1,1 @@
+1. No checkpoints are used in this code. Checkpoints can be used so if the code fails in between, it can start from the last valid instead of the initial.
